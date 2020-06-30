@@ -1,1 +1,1 @@
-# Inspiration
+# Exercism
